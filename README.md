@@ -1,5 +1,5 @@
 # Myblog
-Creating a blog using npx express-generator and having pages routes
+Creating blog pages using npx express-generator and routes.
 ### Link
 * (https://github.com/tosin199/Myblog.git)
 
